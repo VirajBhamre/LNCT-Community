@@ -1,1 +1,1 @@
-# LNCT-Community
+Developed a front end of an Event Management Website specifically for our college LNCT where the event organizers can post the event and students can participate online followed by online transaction insted of organizers approaching physically to the students. Technologies used are HTML, CSS, Javascript, Bootstrap.
